@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunil\\OneDrive\\Documents\\ModifiedAssignmentsC\u002B\u002B\\Assignment6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43EB7F08-1D1D-4277-91F0-7E50493102DF}|Assignment6.vcxproj|C:\\Users\\sunil\\OneDrive\\Documents\\ModifiedAssignmentsC\u002B\u002B\\Assignment6\\address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43EB7F08-1D1D-4277-91F0-7E50493102DF}|Assignment6.vcxproj|solutionrelative:address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "address.cpp",
+              "DocumentMoniker": "C:\\Users\\sunil\\OneDrive\\Documents\\ModifiedAssignmentsC\u002B\u002B\\Assignment6\\address.cpp",
+              "RelativeDocumentMoniker": "address.cpp",
+              "ToolTip": "C:\\Users\\sunil\\OneDrive\\Documents\\ModifiedAssignmentsC\u002B\u002B\\Assignment6\\address.cpp*",
+              "RelativeToolTip": "address.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T19:23:08.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
