@@ -1,3 +1,0 @@
-﻿  randomDice.cpp
-C:\Users\sunil\OneDrive\Documents\ModifiedAssignmentsC++\Assignment3\randomDice.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Assignment3.vcxproj -> C:\Users\sunil\OneDrive\Documents\ModifiedAssignmentsC++\Assignment3\x64\Debug\Assignment3.exe
